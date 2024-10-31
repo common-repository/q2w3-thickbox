@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Thickbox q2w3 plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-10-18 22:11+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ashish Jha <ashish@outshinesolutions.com>\n"
+"Language-Team: Outshine Solutions <ashish@outshinesolutions.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hindi\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\Projects\\_myblog\\htdocs\\wp-content\\plugins\\q2w3-thickbox\n"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:11
+msgid "jQuery code for setting \"thickbox\" class"
+msgstr "स्थापित करने के लिए jQuery कोड  \"thickbox \" वर्ग"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:11
+msgid "Required for thickbox pop-up window functionality."
+msgstr "खिड़की की कार्यक्षमता को thickbox पॉप के लिए आवश्यक है."
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:13
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:19
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:25
+msgid "Default"
+msgstr "चूक"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:17
+msgid "jQuery code for setting \"title\" attribute "
+msgstr "स्थापित करने के लिए jQuery कोड  \"शीर्षक \" विशेषता"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:17
+msgid "Required for pop-up window comment. By default title equals image alt attribute."
+msgstr "टिप्पणी विंडो पॉप अप के लिए आवश्यक है. डिफ़ॉल्ट शीर्षक से छवि Alt विशेषता बराबर होती है."
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:23
+msgid "jQuery code for setting \"rel\" attribute"
+msgstr "स्थापित करने के लिए jQuery कोड \"rel\" विशेषता"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:23
+msgid "Required for naviagation links between images in gallery."
+msgstr "चित्रों के बीच naviagation गैलरी में लिंक के लिए आवश्यक है."
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:31
+msgid "Save Changes"
+msgstr "परिवर्तन सहेजें"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:58
+msgid "Notes"
+msgstr "नोट्स"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:62
+msgid "Wordpress uses jQuery in"
+msgstr "WordPress में jQuery का उपयोग करता है"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:62
+msgid "no conflict mode"
+msgstr "कोई संघर्ष मोड"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:62
+msgid "Standart function \"$()\" must be replaced by \"jQuery()\""
+msgstr "Standart समारोह \"$()\"  की जगह होगी  \"jQuery()\""
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:64
+msgid "If you want to disable automatic class/attribute setters, just delete all corresponding jQuery code. In this case you'll be able to add classes and attributes manually in the post editor"
+msgstr "यदि आप स्वत: निष्क्रिय वर्ग class/attribute setters, बस सब इसी jQuery कोड हटा दें. इस मामले में आप वर्गों को जोड़ने और पोस्ट संपादक में मैन्युअल रूप से गुण कर सकेंगे"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:66
+msgid "Use \"Default\" button to restore initial jQuery code"
+msgstr "का प्रयोग करें \"डिफ़ॉल्ट \" के लिए प्रारंभिक jQuery कोड पुनर्स्थापित करें बटन"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:68
+msgid "Standard Wordpress gallery shortcode ([gallery]) should be used with the \"link=\"file\" option. Example: [gallery link=\"file\"]"
+msgstr "मानक WordPress गैलरी shortcode ([गैलरी])  \"link=\"file\"  विकल्प के साथ प्रयोग किया जाना चाहिए. उदाहरण: गैलरी [gallery link=\"file\"]"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox-settings.php:70
+msgid "Q2W3 Thickbox plugin homepage"
+msgstr "Q2W3 Thickbox प्लगइन मुखपृष्ठ"
+
+#: E:\Projects\_myblog\htdocs\wp-content\plugins\q2w3-thickbox/q2w3-thickbox.php:159
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#~ msgid "Q2W3 Thickbox Settings"
+#~ msgstr "Настройка плагина Q2W3 Thickbox"
+
+#~ msgid ""
+#~ "jQuery code for setting \"thickbox\" class to image links (enables basic "
+#~ "thickbox functionality)"
+#~ msgstr ""
+#~ "Код jQuery присваивающий класс \"thickbox\" ссылкам на полноразмерные "
+#~ "изображения. Необходим для эффекта всплывающего окна"
+
+#~ msgid ""
+#~ "jQuery code for setting image links \"title\" attribute like images \"alt"
+#~ "\" attribute (enables image comments in the thickbox windows)"
+#~ msgstr ""
+#~ "Код jQuery присваивающий атрибут \"title\" ссылкам на полноразмерные "
+#~ "изображения. Значение \"title\" берется из атрибута \"alt\". Необходим "
+#~ "для отображения комментария к изображению во всплывающем окне"
+
+#~ msgid ""
+#~ "jQuery code for setting \"rel\" attribute to gallery image links (enables "
+#~ "navigation links in the thickbox window)"
+#~ msgstr ""
+#~ "Код jQuery присваивающий атрибут \"rel\" ссылкам на полноразмерные "
+#~ "изображения, которые объединены в галерею ([gallery]). Значение атрибута "
+#~ "произвольное. Необходим для навигации вперед/назад по изображениям галереи"
